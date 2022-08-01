@@ -1,0 +1,1346 @@
+31-07-122 20:53:50 : Booting server
+31-07-122 20:53:50 FSD: Reading certificates from 'cert.txt'
+31-07-122 20:53:50 FSD: Booting port 6809 (client interface)
+31-07-122 20:53:50 FSD: Booting port 3011 (server interface)
+31-07-122 20:53:50 FSD: Booting port 3010 (system management interface)
+31-07-122 20:53:50 FSD: No 'allowfrom' found, allowing everybody on the server port
+31-07-122 20:53:50 FSD: We are up
+31-07-122 20:53:51 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+31-07-122 20:53:51 FSD: Reading certificates from 'cert.txt'
+31-07-122 20:54:12 FSD: Connection accepted from 111.16.166.92 on client interface
+31-07-122 20:54:26 FSD: client from 111.16.166.92 removed from client interface:closed on command
+31-07-122 20:58:12 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:12 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:12 FSD: client from 116.24.104.109 removed from client interface:closed on command
+31-07-122 20:58:12 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:12 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:12 FSD: client from 116.24.104.109 removed from client interface:closed on command
+31-07-122 20:58:12 FSD: client from 116.24.104.109 removed from client interface:closed on command
+31-07-122 20:58:12 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:12 FSD: client from 116.24.104.109 removed from client interface:closed on command
+31-07-122 20:58:13 FSD: client from 116.24.104.109 removed from client interface:closed on command
+31-07-122 20:58:22 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:23 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:23 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:23 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:23 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:24 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:24 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:24 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:24 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:25 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:25 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:58:25 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 20:59:02 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:04 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:04 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:04 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:04 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:04 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:05 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:05 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:05 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:05 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:05 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:05 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:05 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:05 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:05 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:05 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:05 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:05 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:05 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:05 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:05 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:05 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:05 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:06 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:12 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:12 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:12 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:12 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:12 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:12 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:12 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 20:59:12 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:12 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 20:59:12 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 21:04:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:04:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:04:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:04:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:04:31 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:04:31 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:04:31 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:04:31 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:04:32 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:04:32 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:04:32 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:09:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:09:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:09:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:09:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+31-07-122 21:11:51 FSD: Connection accepted from localhost on system management interface
+31-07-122 21:11:51 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 21:12:00 FSD: Reading certificates from 'cert.txt'
+31-07-122 21:14:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:19:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:24:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:29:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:34:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:39:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:44:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:45:00 FSD: Reading certificates from 'cert.txt'
+31-07-122 21:45:27 FSD: Connection accepted from 111.16.166.92 on client interface
+31-07-122 21:47:15 FSD: Connection accepted from 123.186.123.213 on client interface
+31-07-122 21:47:16 FSD: client from 123.186.123.213 removed from client interface:closed on command
+31-07-122 21:47:26 FSD: Connection accepted from 123.186.123.213 on client interface
+31-07-122 21:47:27 FSD: client from 123.186.123.213 removed from client interface:closed on command
+31-07-122 21:48:15 FSD: Connection accepted from 123.186.123.213 on client interface
+31-07-122 21:48:15 FSD: client from 123.186.123.213 removed from client interface:closed on command
+31-07-122 21:49:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:49:45 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 21:49:46 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 21:49:56 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 21:49:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:closed on command
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:write error
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:write error
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:write error
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:write error
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:write error
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:write error
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:write error
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:write error
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:write error
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:write error
+31-07-122 21:50:25 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:26 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:26 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:26 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:26 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:26 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:26 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:50:26 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:05 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:05 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:05 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:05 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:05 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:06 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:06 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:06 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:06 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:07 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:07 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:07 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:12 FSD: client from 116.24.104.109 removed from client interface:closed on command
+31-07-122 21:51:12 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:12 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:12 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:12 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:12 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:12 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:12 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:12 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:12 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:12 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:13 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:20 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 21:51:21 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 21:51:29 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:29 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:29 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:29 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:29 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:30 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:31 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:31 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:31 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:51:36 FSD: client from 116.24.104.109 removed from client interface:closed on command
+31-07-122 21:51:36 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:36 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:36 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:36 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:36 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:36 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:36 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:36 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:36 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:36 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:51:37 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:52:00 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 21:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 21:53:10 FSD: client from 111.16.166.92 removed from client interface:closed on command
+31-07-122 21:53:21 FSD: Connection accepted from 111.16.166.92 on client interface
+31-07-122 21:54:57 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:54:58 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:54:58 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:54:58 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:54:58 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:54:59 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:54:59 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:54:59 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:54:59 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:55:00 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:55:00 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:55:00 FSD: Connection accepted from 116.24.104.109 on client interface
+31-07-122 21:55:05 FSD: client from 111.16.166.92 removed from client interface:closed on command
+31-07-122 21:55:07 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 21:55:08 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 21:55:18 FSD: client from 116.24.104.109 removed from client interface:closed on command
+31-07-122 21:55:18 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:55:18 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:55:18 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:55:18 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:55:18 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:55:18 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:55:18 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:55:18 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:55:18 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:55:18 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:55:19 FSD: client from 116.24.104.109 removed from client interface:connection closed
+31-07-122 21:55:33 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 21:55:34 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 21:55:55 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 21:55:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 21:56:42 FSD: Connection accepted from 111.16.166.92 on client interface
+31-07-122 21:57:20 FSD: client from 111.16.166.92 removed from client interface:closed on command
+31-07-122 21:57:46 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 21:57:58 FSD: Connection accepted from 111.16.166.92 on client interface
+31-07-122 21:58:18 FSD: client from 111.16.166.92 removed from client interface:closed on command
+31-07-122 21:58:29 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 22:00:52 FSD: Connection accepted from 111.16.166.92 on client interface
+31-07-122 22:03:13 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:03:20 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 22:05:48 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:05:49 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:05:49 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:05:49 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:05:50 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:05:50 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:05:50 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:05:50 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:05:50 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:05:50 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:05:50 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:05:50 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:05:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:05:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:05:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:05:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:05:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:05:57 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 22:05:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:05:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:05:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:05:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:05:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:05:58 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:06:06 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:06:06 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:06:06 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:06:06 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:06:06 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:06:07 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:06:07 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:06:07 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:06:07 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:06:08 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:06:08 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:06:08 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:07:09 FSD: Connection accepted from 116.24.104.109 on system management interface
+31-07-122 22:07:33 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 22:07:33 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:07:33 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:07:33 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:07:33 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:07:33 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:07:33 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:07:33 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:07:33 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:07:33 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:07:34 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:07:34 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:08:03 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:08:09 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 22:09:07 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:09:07 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:09:07 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:09:07 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:09:07 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:09:07 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:09:08 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:09:08 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:09:08 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:09:08 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:09:08 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:09:08 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+31-07-122 22:10:33 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:10:33 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:10:38 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:11:00 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:12:01 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:12:01 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:12:06 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:13:50 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:13:51 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:13:56 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:15:13 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:15:14 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:15:24 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:15:35 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:15:44 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:15:45 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:15:46 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:15:57 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:18:16 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:18:17 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:18:20 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:18:45 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:18:46 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:18:53 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:20:11 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:20:12 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:20:21 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:20:31 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:20:32 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:20:32 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:20:36 FSD: client from 116.24.104.109 removed from system management interface:socket stalled
+31-07-122 22:20:43 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:20:44 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:20:54 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:21:45 FSD: Connection accepted from 116.24.104.109 on system management interface
+31-07-122 22:23:27 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:23:27 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:23:27 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:23:28 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:23:28 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:23:56 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:23:57 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:24:01 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:30:18 FSD: client from 116.24.104.109 removed from system management interface:socket stalled
+31-07-122 22:30:58 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:30:59 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:31:10 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:31:19 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:31:20 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:31:21 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:31:24 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:31:25 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:31:28 FSD: Connection accepted from localhost on system management interface
+31-07-122 22:31:29 FSD: client from localhost removed from system management interface:connection closed
+31-07-122 22:31:32 FSD: Reading certificates from 'cert.txt'
+31-07-122 22:40:00 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 22:40:00 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:40:00 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:40:00 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:40:00 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:40:00 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:40:00 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:40:00 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:40:00 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:40:00 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:40:00 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:40:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:40:14 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:40:16 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:40:16 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:40:17 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:40:18 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:40:18 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:40:18 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:40:18 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:40:18 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:40:18 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:40:18 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:40:18 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:40:52 FSD: Connection accepted from 123.186.123.213 on client interface
+31-07-122 22:40:52 FSD: client from 123.186.123.213 removed from client interface:closed on command
+31-07-122 22:41:29 FSD: Connection accepted from 123.186.123.213 on client interface
+31-07-122 22:41:38 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 22:41:38 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:41:38 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:41:38 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:41:38 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:41:38 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:41:38 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:41:38 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:41:38 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:41:38 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:41:38 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:41:39 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:41:48 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:41:49 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:41:49 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:41:49 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:41:49 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:41:50 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:41:50 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:41:50 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:41:50 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:41:51 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:41:51 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:41:51 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:43:24 FSD: client from 139.227.154.182 removed from client interface:closed on command
+31-07-122 22:43:24 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:43:24 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:43:24 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:43:24 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:43:24 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:43:24 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:43:24 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:43:24 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:43:24 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:43:24 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:43:25 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 22:43:35 FSD: client from 123.186.123.213 removed from client interface:closed on command
+31-07-122 22:47:45 FSD: Connection accepted from 123.186.123.213 on client interface
+31-07-122 22:47:46 FSD: client from 123.186.123.213 removed from client interface:closed on command
+31-07-122 22:48:08 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:09 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:09 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:09 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:10 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:10 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:10 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:10 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:10 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:10 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:10 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:10 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:10 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:10 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:10 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:10 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:11 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:14 FSD: Connection accepted from 123.186.123.213 on client interface
+31-07-122 22:48:14 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:14 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 22:48:14 FSD: client from 123.186.123.213 removed from client interface:closed on command
+31-07-122 22:48:36 FSD: Connection accepted from 123.186.123.213 on client interface
+31-07-122 22:48:36 FSD: client from 123.186.123.213 removed from client interface:closed on command
+31-07-122 22:49:30 FSD: Connection accepted from 123.186.123.213 on client interface
+31-07-122 23:02:55 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 23:07:57 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 23:08:37 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 23:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+31-07-122 23:12:57 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 23:12:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 23:13:34 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 23:14:15 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 23:17:57 FSD: Connection accepted from 139.227.154.182 on client interface
+31-07-122 23:17:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 23:21:36 FSD: client from 139.227.154.182 removed from client interface:connection closed
+31-07-122 23:50:23 FSD: client from 123.186.123.213 removed from client interface:connection closed
+01-08-122 00:04:58 FSD: Connection accepted from localhost on system management interface
+01-08-122 00:04:59 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 00:05:03 FSD: Reading certificates from 'cert.txt'
+01-08-122 00:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 00:50:57 FSD: client from 111.16.166.92 removed from client interface:connection closed
+01-08-122 01:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 02:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 02:32:15 FSD: Connection accepted from ip-193-106-29-74.infiumhost.net on server interface
+01-08-122 02:32:16 FSD: client from ip-193-106-29-74.infiumhost.net removed from server interface:connection closed
+01-08-122 02:54:15 FSD: Connection accepted from ip-193-106-29-74.infiumhost.net on system management interface
+01-08-122 02:54:17 FSD: client from ip-193-106-29-74.infiumhost.net removed from system management interface:connection closed
+01-08-122 03:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 04:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 05:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 05:44:07 FSD: Connection accepted from scanner-07.ch1.censys-scanner.com on server interface
+01-08-122 05:44:08 FSD: client from scanner-07.ch1.censys-scanner.com removed from server interface:connection closed
+01-08-122 06:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 07:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 08:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 08:45:13 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 08:45:14 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 08:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 08:45:25 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 08:45:43 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 08:45:44 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 08:51:07 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:07 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:09 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:09 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:09 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:11 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:11 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:11 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:11 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:11 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:11 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:11 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:11 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:11 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:12 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:12 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:51:12 FSD: client from 139.227.154.182 removed from client interface:socket stalled
+01-08-122 08:59:39 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 08:59:46 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 08:59:53 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:37 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 09:00:54 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:55 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:55 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:55 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:55 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:55 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:55 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:55 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:55 FSD: POSERR: s=(ZGGG,208 OBMEP W56 LEBUN W57 BEKDO W157I) got(0.000000,208.000000)
+01-08-122 09:00:55 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:56 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:56 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:56 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:56 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:57 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:57 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:00:57 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:04 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:05 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:01:07 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:08 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:08 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:08 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:08 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:09 FSD: POSERR: s=(ZGGG,208 OBMEP W56 LEBUN W57 BEKDO W157I) got(0.000000,208.000000)
+01-08-122 09:01:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:10 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:10 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:10 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:10 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:11 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:11 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:01:11 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 09:26:44 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:43 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:45 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:45 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:45 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:28:46 FSD: POSERR: s=(ZGGG,208 OBMEP W56 LEBUN W57 BEKDO W157I) got(0.000000,208.000000)
+01-08-122 09:29:43 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:32:45 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:33:45 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:33:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:33:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:33:47 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:33:47 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:33:47 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:33:47 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:33:47 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:33:47 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:33:47 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:33:47 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:35:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:38:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:38:47 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:38:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:38:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:38:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:38:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:38:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:38:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:38:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:38:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:38:49 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:38:49 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:41:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:43:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:43:47 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:43:47 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:43:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:43:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:43:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:43:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:43:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:43:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:43:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:43:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:44:45 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:22 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:23 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 09:47:23 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 10:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 11:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 11:48:21 FSD: Connection accepted from localhost on system management interface
+01-08-122 11:48:22 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 11:48:25 FSD: Reading certificates from 'cert.txt'
+01-08-122 12:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 13:03:57 FSD: Reading certificates from 'cert.txt'
+01-08-122 13:09:24 FSD: Connection accepted from localhost on system management interface
+01-08-122 13:09:25 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 13:09:27 FSD: Reading certificates from 'cert.txt'
+01-08-122 13:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 13:12:06 FSD: Connection accepted from localhost on system management interface
+01-08-122 13:12:07 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 13:12:12 FSD: Reading certificates from 'cert.txt'
+01-08-122 14:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 14:13:54 FSD: Connection accepted from zg-0728g-144.stretchoid.com on server interface
+01-08-122 14:13:55 FSD: client from zg-0728g-144.stretchoid.com removed from server interface:connection closed
+01-08-122 14:25:47 FSD: Connection accepted from zg-0728d-36.stretchoid.com on server interface
+01-08-122 14:25:48 FSD: client from zg-0728d-36.stretchoid.com removed from server interface:connection closed
+01-08-122 15:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 16:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 17:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 17:30:06 FSD: Connection accepted from . on client interface
+01-08-122 17:30:06 FSD: Connection accepted from . on client interface
+01-08-122 17:30:06 FSD: Connection accepted from . on client interface
+01-08-122 17:30:06 FSD: Connection accepted from . on client interface
+01-08-122 17:30:06 FSD: Connection accepted from . on client interface
+01-08-122 17:30:07 FSD: Connection accepted from . on client interface
+01-08-122 17:30:07 FSD: Connection accepted from . on client interface
+01-08-122 17:30:07 FSD: Connection accepted from . on client interface
+01-08-122 17:30:07 FSD: Connection accepted from . on client interface
+01-08-122 17:30:08 FSD: Connection accepted from . on client interface
+01-08-122 17:30:08 FSD: Connection accepted from . on client interface
+01-08-122 17:30:08 FSD: Connection accepted from . on client interface
+01-08-122 17:30:08 FSD: Connection accepted from . on client interface
+01-08-122 17:30:09 FSD: Connection accepted from . on client interface
+01-08-122 17:30:09 FSD: Connection accepted from . on client interface
+01-08-122 17:30:09 FSD: Connection accepted from . on client interface
+01-08-122 17:30:09 FSD: Connection accepted from . on client interface
+01-08-122 17:30:10 FSD: Connection accepted from . on client interface
+01-08-122 17:33:09 FSD: client from . removed from client interface:connection closed
+01-08-122 17:33:32 FSD: client from . removed from client interface:connection closed
+01-08-122 17:33:47 FSD: client from . removed from client interface:connection closed
+01-08-122 17:33:54 FSD: client from . removed from client interface:connection closed
+01-08-122 17:48:25 FSD: client from . removed from client interface:connection closed
+01-08-122 17:48:29 FSD: Connection accepted from . on client interface
+01-08-122 17:49:45 FSD: client from . removed from client interface:closed on command
+01-08-122 17:49:45 FSD: client from . removed from client interface:connection closed
+01-08-122 17:49:45 FSD: client from . removed from client interface:connection closed
+01-08-122 17:49:45 FSD: client from . removed from client interface:connection closed
+01-08-122 17:49:46 FSD: client from . removed from client interface:connection closed
+01-08-122 17:49:46 FSD: client from . removed from client interface:connection closed
+01-08-122 17:49:46 FSD: client from . removed from client interface:connection closed
+01-08-122 17:49:46 FSD: client from . removed from client interface:connection closed
+01-08-122 17:49:46 FSD: client from . removed from client interface:connection closed
+01-08-122 17:49:46 FSD: client from . removed from client interface:connection closed
+01-08-122 17:49:46 FSD: client from . removed from client interface:connection closed
+01-08-122 17:49:46 FSD: client from . removed from client interface:connection closed
+01-08-122 17:49:46 FSD: client from . removed from client interface:connection closed
+01-08-122 17:49:46 FSD: client from . removed from client interface:connection closed
+01-08-122 18:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 19:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 19:31:04 FSD: Connection accepted from localhost on system management interface
+01-08-122 19:31:06 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 19:31:09 FSD: Reading certificates from 'cert.txt'
+01-08-122 19:41:22 FSD: Connection accepted from localhost on system management interface
+01-08-122 19:41:23 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 19:41:25 FSD: Reading certificates from 'cert.txt'
+01-08-122 19:42:41 FSD: Connection accepted from localhost on system management interface
+01-08-122 19:42:42 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 19:42:42 FSD: Reading certificates from 'cert.txt'
+01-08-122 19:46:54 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 19:47:29 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 19:47:59 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 19:49:09 FSD: Connection accepted from 116.24.104.109 on client interface
+01-08-122 19:49:18 FSD: client from 116.24.104.109 removed from client interface:connection closed
+01-08-122 19:49:19 FSD: Connection accepted from 116.24.104.109 on client interface
+01-08-122 19:49:20 FSD: client from 116.24.104.109 removed from client interface:closed on command
+01-08-122 19:49:37 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 19:50:17 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 19:51:38 : Booting server
+01-08-122 19:51:38 FSD: Reading certificates from 'cert.txt'
+01-08-122 19:51:38 FSD: ** Bind error on port 6809
+01-08-122 19:51:44 FSD: Connection accepted from 116.24.104.109 on client interface
+01-08-122 19:51:45 FSD: client from 116.24.104.109 removed from client interface:closed on command
+01-08-122 19:51:57 FSD: Connection accepted from 116.24.104.109 on client interface
+01-08-122 19:52:28 FSD: Connection accepted from localhost on system management interface
+01-08-122 19:52:29 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 19:52:36 FSD: Reading certificates from 'cert.txt'
+01-08-122 19:53:04 FSD: Connection accepted from . on client interface
+01-08-122 19:53:13 FSD: client from . removed from client interface:closed on command
+01-08-122 19:53:16 FSD: Connection accepted from . on client interface
+01-08-122 19:53:24 : Booting server
+01-08-122 19:53:24 FSD: Reading certificates from 'cert.txt'
+01-08-122 19:53:24 FSD: ** Bind error on port 6809
+01-08-122 19:53:30 FSD: client from 116.24.104.109 removed from client interface:closed on command
+01-08-122 19:53:31 FSD: Connection accepted from 116.24.104.109 on client interface
+01-08-122 19:53:33 FSD: Connection accepted from localhost on system management interface
+01-08-122 19:53:34 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 19:53:42 FSD: Reading certificates from 'cert.txt'
+01-08-122 19:55:46 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 19:55:47 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 19:56:33 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 19:56:34 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 19:57:55 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 19:57:56 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 19:58:07 : Booting server
+01-08-122 19:58:07 FSD: Reading certificates from 'cert.txt'
+01-08-122 19:58:07 FSD: ** Bind error on port 6809
+01-08-122 19:58:18 FSD: client from 116.24.104.109 removed from client interface:closed on command
+01-08-122 19:58:18 FSD: Connection accepted from 116.24.104.109 on client interface
+01-08-122 19:58:40 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 19:58:41 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 19:58:48 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 19:58:49 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 19:59:01 FSD: Connection accepted from localhost on client interface
+01-08-122 19:59:01 FSD: Connection accepted from localhost on system management interface
+01-08-122 19:59:01 FSD: client from localhost removed from system management interface:write error
+01-08-122 19:59:01 FSD: Connection accepted from localhost on server interface
+01-08-122 19:59:01 FSD: client from localhost removed from server interface:write error
+01-08-122 19:59:02 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 19:59:02 FSD: client from localhost removed from client interface:connection closed
+01-08-122 20:01:30 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 20:01:40 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 20:02:09 FSD: client from . removed from client interface:closed on command
+01-08-122 20:02:18 FSD: Connection accepted from . on client interface
+01-08-122 20:02:25 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:02:29 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:02:36 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 20:04:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 20:04:34 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:04:38 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:05:15 FSD: client from 116.24.104.109 removed from client interface:closed on command
+01-08-122 20:06:36 FSD: Connection accepted from 116.24.104.109 on client interface
+01-08-122 20:09:52 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 20:15:05 FSD: ZBAA_APP Killed ZGSZ_OBS
+01-08-122 20:15:06 FSD: client from 116.24.104.109 removed from client interface:killed on command
+01-08-122 20:15:38 FSD: Connection accepted from 116.24.104.109 on client interface
+01-08-122 20:15:43 FSD: client from 116.24.104.109 removed from client interface:closed on command
+01-08-122 20:19:46 FSD: Connection accepted from 103.78.125.253 on client interface
+01-08-122 20:19:48 FSD: client from 103.78.125.253 removed from client interface:closed on command
+01-08-122 20:20:15 FSD: Connection accepted from 103.78.125.253 on client interface
+01-08-122 20:20:17 FSD: client from 103.78.125.253 removed from client interface:closed on command
+01-08-122 20:20:29 FSD: Connection accepted from 103.78.125.253 on client interface
+01-08-122 20:20:31 FSD: client from 103.78.125.253 removed from client interface:closed on command
+01-08-122 20:24:02 FSD: Connection accepted from localhost on system management interface
+01-08-122 20:24:04 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 20:24:08 FSD: Reading certificates from 'cert.txt'
+01-08-122 20:25:41 FSD: Connection accepted from 103.78.125.253 on client interface
+01-08-122 20:43:10 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:43:11 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:44:11 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 20:44:15 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:44:28 FSD: client from . removed from client interface:closed on command
+01-08-122 20:44:57 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:45:28 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:45:33 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:46:29 : Booting server
+01-08-122 20:46:29 FSD: Reading certificates from 'cert.txt'
+01-08-122 20:46:29 FSD: ** Bind error on port 6809
+01-08-122 20:46:53 : Booting server
+01-08-122 20:46:53 FSD: Reading certificates from 'cert.txt'
+01-08-122 20:46:53 FSD: ** Bind error on port 6809
+01-08-122 20:47:05 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:47:16 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:47:52 FSD: Connection accepted from . on client interface
+01-08-122 20:48:07 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 20:48:32 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:48:32 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:49:39 FSD: Connection accepted from 116.24.104.109 on client interface
+01-08-122 20:51:15 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:55:45 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:55:46 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:56:11 FSD: Connection accepted from 103.78.125.253 on client interface
+01-08-122 20:56:12 FSD: client from 103.78.125.253 removed from client interface:closed on command
+01-08-122 20:56:23 FSD: Connection accepted from 103.78.125.253 on client interface
+01-08-122 20:56:24 FSD: client from 103.78.125.253 removed from client interface:closed on command
+01-08-122 20:56:35 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:56:47 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:56:48 FSD: Connection accepted from 103.78.125.253 on client interface
+01-08-122 20:57:04 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:57:09 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:57:10 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:57:28 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:59:01 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:59:12 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 20:59:13 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 20:59:25 FSD: Connection accepted from 112.45.6.180 on client interface
+01-08-122 21:00:38 FSD: Connection accepted from localhost on system management interface
+01-08-122 21:00:39 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 21:00:49 FSD: Reading certificates from 'cert.txt'
+01-08-122 21:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 21:11:30 FSD: ZBAA_APP Killed ZBAA_TWR
+01-08-122 21:11:30 FSD: client from . removed from client interface:killed on command
+01-08-122 21:11:36 FSD: Connection accepted from . on client interface
+01-08-122 21:11:53 FSD: client from 103.78.125.253 removed from client interface:closed on command
+01-08-122 21:13:17 FSD: client from . removed from client interface:closed on command
+01-08-122 21:13:24 FSD: Connection accepted from . on client interface
+01-08-122 21:13:25 FSD: client from . removed from client interface:closed on command
+01-08-122 21:15:47 FSD: Connection accepted from 103.78.125.253 on client interface
+01-08-122 21:16:15 FSD: Connection accepted from localhost on system management interface
+01-08-122 21:16:16 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 21:16:24 FSD: Reading certificates from 'cert.txt'
+01-08-122 21:17:51 FSD: Connection accepted from . on client interface
+01-08-122 21:18:24 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 21:18:31 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 21:19:30 FSD: ZBAA_TWR Killed ZBAA_APP
+01-08-122 21:19:31 FSD: client from 139.227.154.182 removed from client interface:killed on command
+01-08-122 21:19:38 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 21:19:43 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 21:19:53 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 21:33:53 FSD: client from 103.78.125.253 removed from client interface:closed on command
+01-08-122 21:33:56 FSD: Connection accepted from 103.78.125.253 on client interface
+01-08-122 21:35:12 FSD: client from 116.24.104.109 removed from client interface:closed on command
+01-08-122 21:35:19 FSD: Connection accepted from 116.24.104.109 on client interface
+01-08-122 21:37:17 FSD: client from 116.24.104.109 removed from client interface:closed on command
+01-08-122 21:39:45 FSD: Connection accepted from localhost on system management interface
+01-08-122 21:39:46 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 21:39:52 FSD: Reading certificates from 'cert.txt'
+01-08-122 21:50:20 FSD: Connection accepted from localhost on system management interface
+01-08-122 21:50:22 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 21:50:30 FSD: Reading certificates from 'cert.txt'
+01-08-122 21:56:26 FSD: client from 103.78.125.253 removed from client interface:closed on command
+01-08-122 21:56:57 FSD: ZBAA_TWR Killed CHB6101
+01-08-122 21:56:57 FSD: client from 103.78.125.253 removed from client interface:killed on command
+01-08-122 21:57:10 FSD: Connection accepted from 223.72.77.150 on client interface
+01-08-122 21:57:45 FSD: client from 223.72.77.150 removed from client interface:closed on command
+01-08-122 21:57:48 FSD: Connection accepted from 223.72.77.150 on client interface
+01-08-122 21:57:49 FSD: client from 223.72.77.150 removed from client interface:closed on command
+01-08-122 21:57:56 FSD: Connection accepted from 223.72.77.150 on client interface
+01-08-122 21:57:57 FSD: client from 223.72.77.150 removed from client interface:closed on command
+01-08-122 21:58:01 FSD: Connection accepted from 223.72.77.150 on client interface
+01-08-122 22:03:07 FSD: client from 223.72.77.150 removed from client interface:closed on command
+01-08-122 22:04:46 FSD: client from 112.45.6.180 removed from client interface:closed on command
+01-08-122 22:04:49 FSD: client from . removed from client interface:closed on command
+01-08-122 22:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 22:21:36 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 22:26:56 FSD: Connection accepted from 116.24.104.109 on system management interface
+01-08-122 22:28:52 FSD: client from 116.24.104.109 removed from system management interface:connection closed
+01-08-122 22:45:21 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:23 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:23 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:25 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:25 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:25 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:25 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:26 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:26 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:26 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:26 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:27 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:27 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:27 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:27 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:28 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:28 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:28 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:28 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:29 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:29 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:29 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:29 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:30 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:30 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:30 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:30 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:31 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:31 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:31 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:31 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:32 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:32 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:32 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:45:32 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:52 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:53 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:47:53 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:04 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:04 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:05 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:07 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:07 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:07 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:07 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:08 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:08 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:08 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:08 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:09 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:49:10 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:51:57 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:58 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:58 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:51:59 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:00 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:00 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:00 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:00 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:00 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:00 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:01 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:01 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:01 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:01 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:01 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:02 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:02 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:03 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:03 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:03 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:03 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:04 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:04 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:04 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:04 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:05 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:05 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:05 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:05 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:06 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:07 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:07 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:07 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:07 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:08 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:08 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:08 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:08 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:09 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:10 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:10 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:10 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:10 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:11 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:11 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:11 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:11 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:12 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:12 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:12 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:12 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:13 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:13 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:13 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:13 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:14 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:14 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:14 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:14 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:closed on command
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:56 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 22:52:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 23:00:15 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:16 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:17 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:17 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:17 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:17 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:17 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:17 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:18 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:18 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:18 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:18 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:18 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:18 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:18 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:18 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:18 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:18 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:18 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:19 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:19 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:19 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:19 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:19 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:19 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:20 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:20 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:20 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:20 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:21 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:21 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:21 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:21 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:22 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:22 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:22 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:22 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:23 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:23 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:23 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:23 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:24 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:25 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:25 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:25 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:00:25 FSD: Connection accepted from 139.227.154.182 on client interface
+01-08-122 23:07:33 FSD: Connection accepted from localhost on system management interface
+01-08-122 23:07:33 FSD: client from localhost removed from system management interface:connection closed
+01-08-122 23:07:43 FSD: Reading certificates from 'cert.txt'
+01-08-122 23:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+01-08-122 23:11:06 FSD: Connection accepted from 123.186.123.213 on client interface
+01-08-122 23:20:57 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 23:36:39 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 23:44:08 FSD: client from 139.227.154.182 removed from client interface:connection closed
+01-08-122 23:56:08 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:05:15 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-08-122 00:13:53 FSD: ZLXY_APP Killed ZLXY_TWR
+02-08-122 00:13:54 FSD: client from 123.186.123.213 removed from client interface:killed on command
+02-08-122 00:14:08 FSD: Connection accepted from 123.186.123.213 on client interface
+02-08-122 00:14:21 FSD: client from 123.186.123.213 removed from client interface:closed on command
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:closed on command
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:43 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:14:44 FSD: client from 139.227.154.182 removed from client interface:connection closed
+02-08-122 00:48:31 FSD: Connection accepted from scanner.openportstats.com on server interface
+02-08-122 00:48:31 FSD: Connection accepted from scanner.openportstats.com on system management interface
+02-08-122 00:48:34 FSD: client from scanner.openportstats.com removed from system management interface:connection closed
+02-08-122 00:48:45 FSD: client from scanner.openportstats.com removed from server interface:connection closed
